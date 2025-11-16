@@ -38,18 +38,11 @@ Ask questions like:
 - "What does the speech say is the real remedy for caste?"  
 - "What example does the speech give to show that social reform is not enough?"  
 
-GIF demonstration (simulate animation on GitHub):
 
-![Demo](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
-
----
 
 ## 🛠 Installation
 
-```bash
-# Clone the repo
-git clone https://github.com/<your-username>/AmbedkarGPT-Intern-Task.git
-cd AmbedkarGPT-Intern-Task
+
 
 # Create virtual environment
 python -m venv .venv
