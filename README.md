@@ -19,7 +19,24 @@ It demonstrates a **functional prototype** of a RAG pipeline using:
 💡 Works **offline**, lightweight, and requires **no API keys**.
 
 ---
+## 🚀 Demo
 
+Ask questions like:
+
+- "What does the speech say is the real remedy for caste?"  
+- "What example does the speech give to show that social reform is not enough?"  
+
+### 🎬 Demo Video
+
+<!-- Embed a video hosted on GitHub (or use a link to YouTube/GDrive if file is too large) -->
+<video src="AmbedkarGPT_demo.mp4" autoplay loop muted controls width="600">
+Your browser does not support the video tag.
+</video>
+
+### 🖼 Screenshot
+
+![AmbedkarGPT Screenshot](screenshot.png)
+  
 ## ⚡ Features
 
 - Load `speech.txt` and process it into manageable chunks.
